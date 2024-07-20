@@ -28,4 +28,6 @@
 2. The company should also target customers who are single and have no family obligations. They have the potential to become loyal customers if they are offered attractive deals and discounts. The company should adopt a ‘Catch them Young’ strategy for this segment.
 3. The company should provide basic services such as device protection, tech support, and online security as part of their standard package. These services can increase customer satisfaction and loyalty, and prevent them from switching to competitors.
 
+**Preview of Dashboards:**
 
+![image](https://github.com/user-attachments/assets/2040336e-c17b-4e4e-9295-2355ae5e2d8f)
