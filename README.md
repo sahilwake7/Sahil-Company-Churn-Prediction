@@ -30,4 +30,7 @@
 
 **Preview of Dashboards:**
 
+**Customer Churn Dashboard**
 ![image](https://github.com/user-attachments/assets/2040336e-c17b-4e4e-9295-2355ae5e2d8f)
+**Customer Risk Analysis Dashboard**
+![image](https://github.com/user-attachments/assets/35c263bf-5511-4811-844d-36e8f88e560f)
